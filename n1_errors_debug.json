@@ -1,0 +1,5280 @@
+[
+    {
+        "id": 39,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0301,
+            "N1": 0.0036,
+            "N2": 0.0002,
+            "REM": 0.0002,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0265
+    },
+    {
+        "id": 40,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0268,
+            "N1": 0.0061,
+            "N2": 0.0004,
+            "REM": 0.0004,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0207
+    },
+    {
+        "id": 41,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0302,
+            "N1": 0.003,
+            "N2": 0.0005,
+            "REM": 0.0004,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0272
+    },
+    {
+        "id": 42,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8547,
+            "N1": 0.1569,
+            "N2": 0.0027,
+            "REM": 0.0016,
+            "N3": 0.0004
+        },
+        "margin_error": 0.6978
+    },
+    {
+        "id": 44,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8461,
+            "Wake": 0.054,
+            "N2": 0.0305,
+            "REM": 0.0036,
+            "N3": 0.0013
+        },
+        "margin_error": 0.8156
+    },
+    {
+        "id": 45,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7763,
+            "N2": 0.1185,
+            "Wake": 0.0384,
+            "REM": 0.0047,
+            "N3": 0.0016
+        },
+        "margin_error": 0.6578
+    },
+    {
+        "id": 47,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7276,
+            "N2": 0.2001,
+            "Wake": 0.0094,
+            "REM": 0.0027,
+            "N3": 0.0011
+        },
+        "margin_error": 0.5275
+    },
+    {
+        "id": 57,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8344,
+            "N2": 0.0953,
+            "REM": 0.0016,
+            "Wake": 0.0015,
+            "N3": 0.0007
+        },
+        "margin_error": 0.7391
+    },
+    {
+        "id": 60,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6686,
+            "N2": 0.2603,
+            "Wake": 0.011,
+            "REM": 0.0038,
+            "N3": 0.0013
+        },
+        "margin_error": 0.4083
+    },
+    {
+        "id": 61,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8918,
+            "N2": 0.0345,
+            "Wake": 0.0022,
+            "REM": 0.0008,
+            "N3": 0.0004
+        },
+        "margin_error": 0.8573
+    },
+    {
+        "id": 75,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0202,
+            "N1": 0.0087,
+            "N2": 0.0031,
+            "REM": 0.0012,
+            "N3": 0.0003
+        },
+        "margin_error": 1.0115
+    },
+    {
+        "id": 76,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0285,
+            "N1": 0.0048,
+            "REM": 0.0004,
+            "N2": 0.0002,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0237
+    },
+    {
+        "id": 118,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.2768,
+            "REM": 0.2731,
+            "N2": 0.2491,
+            "N3": 0.1416,
+            "Wake": 0.0979
+        },
+        "margin_error": 0.0277
+    },
+    {
+        "id": 142,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.4682,
+            "REM": 0.448,
+            "N1": 0.0519,
+            "Wake": 0.046,
+            "N3": 0.007
+        },
+        "margin_error": 0.4163
+    },
+    {
+        "id": 147,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4382,
+            "REM": 0.3509,
+            "N1": 0.1713,
+            "N2": 0.0576,
+            "N3": 0.0057
+        },
+        "margin_error": 0.2669
+    },
+    {
+        "id": 148,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.3471,
+            "N2": 0.2558,
+            "N1": 0.2551,
+            "Wake": 0.1281,
+            "N3": 0.0232
+        },
+        "margin_error": 0.092
+    },
+    {
+        "id": 158,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6448,
+            "N1": 0.1809,
+            "REM": 0.1206,
+            "Wake": 0.0345,
+            "N3": 0.0074
+        },
+        "margin_error": 0.4639
+    },
+    {
+        "id": 186,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6471,
+            "N1": 0.315,
+            "REM": 0.0195,
+            "N2": 0.0154,
+            "N3": 0.0011
+        },
+        "margin_error": 0.3321
+    },
+    {
+        "id": 197,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6163,
+            "N1": 0.1574,
+            "N2": 0.1265,
+            "REM": 0.106,
+            "N3": 0.01
+        },
+        "margin_error": 0.4589
+    },
+    {
+        "id": 198,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4973,
+            "N1": 0.2934,
+            "N2": 0.1247,
+            "REM": 0.0644,
+            "N3": 0.0231
+        },
+        "margin_error": 0.2039
+    },
+    {
+        "id": 220,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5432,
+            "N1": 0.3658,
+            "REM": 0.0482,
+            "N2": 0.0311,
+            "N3": 0.005
+        },
+        "margin_error": 0.1774
+    },
+    {
+        "id": 221,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.3668,
+            "N1": 0.3296,
+            "REM": 0.1616,
+            "N2": 0.1261,
+            "N3": 0.0151
+        },
+        "margin_error": 0.0372
+    },
+    {
+        "id": 225,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0117,
+            "N1": 0.0157,
+            "REM": 0.0043,
+            "N2": 0.0008,
+            "N3": 0.0003
+        },
+        "margin_error": 0.996
+    },
+    {
+        "id": 232,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5344,
+            "N1": 0.405,
+            "REM": 0.0357,
+            "N2": 0.0104,
+            "N3": 0.0036
+        },
+        "margin_error": 0.1294
+    },
+    {
+        "id": 236,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8572,
+            "N1": 0.1244,
+            "N2": 0.0192,
+            "REM": 0.0148,
+            "N3": 0.0055
+        },
+        "margin_error": 0.7328
+    },
+    {
+        "id": 238,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9904,
+            "N1": 0.0369,
+            "REM": 0.0018,
+            "N2": 0.0009,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9535
+    },
+    {
+        "id": 241,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5338,
+            "N1": 0.3993,
+            "REM": 0.0315,
+            "N2": 0.021,
+            "N3": 0.0037
+        },
+        "margin_error": 0.1345
+    },
+    {
+        "id": 251,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5249,
+            "N1": 0.3176,
+            "Wake": 0.074,
+            "REM": 0.0485,
+            "N3": 0.0124
+        },
+        "margin_error": 0.2073
+    },
+    {
+        "id": 252,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8791,
+            "N1": 0.0511,
+            "REM": 0.0381,
+            "Wake": 0.0161,
+            "N3": 0.0043
+        },
+        "margin_error": 0.828
+    },
+    {
+        "id": 272,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7258,
+            "N1": 0.2078,
+            "REM": 0.0598,
+            "N2": 0.0154,
+            "N3": 0.0036
+        },
+        "margin_error": 0.518
+    },
+    {
+        "id": 273,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8503,
+            "REM": 0.0874,
+            "N1": 0.0601,
+            "N2": 0.0285,
+            "N3": 0.0035
+        },
+        "margin_error": 0.7902
+    },
+    {
+        "id": 274,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9133,
+            "N1": 0.0547,
+            "REM": 0.0325,
+            "N2": 0.0249,
+            "N3": 0.0035
+        },
+        "margin_error": 0.8586
+    },
+    {
+        "id": 275,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7292,
+            "N1": 0.1605,
+            "N2": 0.0793,
+            "REM": 0.0382,
+            "N3": 0.0083
+        },
+        "margin_error": 0.5687
+    },
+    {
+        "id": 276,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6201,
+            "N1": 0.148,
+            "Wake": 0.1377,
+            "REM": 0.0727,
+            "N3": 0.0155
+        },
+        "margin_error": 0.4721
+    },
+    {
+        "id": 287,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4082,
+            "N2": 0.302,
+            "Wake": 0.1771,
+            "REM": 0.0818,
+            "N3": 0.0083
+        },
+        "margin_error": 0.1062
+    },
+    {
+        "id": 294,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9965,
+            "N1": 0.0268,
+            "REM": 0.0056,
+            "N2": 0.0023,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9697
+    },
+    {
+        "id": 300,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4415,
+            "Wake": 0.3425,
+            "N2": 0.1402,
+            "REM": 0.0474,
+            "N3": 0.0091
+        },
+        "margin_error": 0.3013
+    },
+    {
+        "id": 311,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4698,
+            "N2": 0.2309,
+            "Wake": 0.2175,
+            "REM": 0.0456,
+            "N3": 0.0091
+        },
+        "margin_error": 0.2389
+    },
+    {
+        "id": 315,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.693,
+            "N1": 0.2247,
+            "N2": 0.0599,
+            "REM": 0.0239,
+            "N3": 0.0068
+        },
+        "margin_error": 0.4683
+    },
+    {
+        "id": 316,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9955,
+            "N1": 0.0276,
+            "N2": 0.0041,
+            "REM": 0.0036,
+            "N3": 0.0005
+        },
+        "margin_error": 0.9679
+    },
+    {
+        "id": 321,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6814,
+            "N1": 0.224,
+            "N2": 0.0613,
+            "REM": 0.0353,
+            "N3": 0.0064
+        },
+        "margin_error": 0.4574
+    },
+    {
+        "id": 322,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5531,
+            "N2": 0.1851,
+            "N1": 0.1517,
+            "REM": 0.1084,
+            "N3": 0.018
+        },
+        "margin_error": 0.4014
+    },
+    {
+        "id": 326,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6545,
+            "N1": 0.2861,
+            "N2": 0.0305,
+            "REM": 0.0255,
+            "N3": 0.0056
+        },
+        "margin_error": 0.3684
+    },
+    {
+        "id": 338,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3628,
+            "Wake": 0.3596,
+            "N2": 0.2074,
+            "REM": 0.0472,
+            "N3": 0.0096
+        },
+        "margin_error": 0.1554
+    },
+    {
+        "id": 341,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4891,
+            "N1": 0.4546,
+            "N2": 0.0241,
+            "REM": 0.0109,
+            "N3": 0.0032
+        },
+        "margin_error": 0.0345
+    },
+    {
+        "id": 354,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9625,
+            "N1": 0.038,
+            "REM": 0.0227,
+            "N2": 0.0068,
+            "N3": 0.0006
+        },
+        "margin_error": 0.9245
+    },
+    {
+        "id": 355,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7625,
+            "N1": 0.225,
+            "REM": 0.0111,
+            "N2": 0.009,
+            "N3": 0.001
+        },
+        "margin_error": 0.5375
+    },
+    {
+        "id": 356,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7614,
+            "N1": 0.2043,
+            "N2": 0.0225,
+            "REM": 0.021,
+            "N3": 0.0017
+        },
+        "margin_error": 0.5571
+    },
+    {
+        "id": 361,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3593,
+            "N2": 0.3377,
+            "REM": 0.2225,
+            "Wake": 0.0588,
+            "N3": 0.0067
+        },
+        "margin_error": 0.0216
+    },
+    {
+        "id": 376,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4811,
+            "Wake": 0.2451,
+            "REM": 0.1846,
+            "N2": 0.0662,
+            "N3": 0.0054
+        },
+        "margin_error": 0.4149
+    },
+    {
+        "id": 379,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8103,
+            "N1": 0.1585,
+            "REM": 0.0378,
+            "N2": 0.0089,
+            "N3": 0.0017
+        },
+        "margin_error": 0.6518
+    },
+    {
+        "id": 381,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6802,
+            "N1": 0.2372,
+            "Wake": 0.0582,
+            "N2": 0.0459,
+            "N3": 0.0045
+        },
+        "margin_error": 0.443
+    },
+    {
+        "id": 383,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6743,
+            "REM": 0.2411,
+            "N1": 0.1016,
+            "N2": 0.0111,
+            "N3": 0.0017
+        },
+        "margin_error": 0.5727
+    },
+    {
+        "id": 384,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7724,
+            "N1": 0.2007,
+            "N2": 0.0379,
+            "Wake": 0.0198,
+            "N3": 0.0015
+        },
+        "margin_error": 0.5717
+    },
+    {
+        "id": 413,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6697,
+            "REM": 0.1521,
+            "N1": 0.1307,
+            "Wake": 0.035,
+            "N3": 0.0059
+        },
+        "margin_error": 0.539
+    },
+    {
+        "id": 419,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5071,
+            "N2": 0.254,
+            "N1": 0.218,
+            "REM": 0.0144,
+            "N3": 0.0057
+        },
+        "margin_error": 0.2891
+    },
+    {
+        "id": 420,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5624,
+            "N1": 0.3656,
+            "REM": 0.0168,
+            "Wake": 0.0165,
+            "N3": 0.0061
+        },
+        "margin_error": 0.1968
+    },
+    {
+        "id": 439,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6437,
+            "N2": 0.2312,
+            "N1": 0.0891,
+            "REM": 0.0436,
+            "N3": 0.0094
+        },
+        "margin_error": 0.5546
+    },
+    {
+        "id": 447,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8875,
+            "N1": 0.0603,
+            "REM": 0.0351,
+            "Wake": 0.0021,
+            "N3": 0.0014
+        },
+        "margin_error": 0.8272
+    },
+    {
+        "id": 509,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7234,
+            "N2": 0.2314,
+            "N1": 0.0767,
+            "Wake": 0.0029,
+            "N3": 0.0015
+        },
+        "margin_error": 0.6467
+    },
+    {
+        "id": 510,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5463,
+            "REM": 0.4473,
+            "N1": 0.0207,
+            "Wake": 0.0036,
+            "N3": 0.0015
+        },
+        "margin_error": 0.5256
+    },
+    {
+        "id": 516,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4301,
+            "N2": 0.2804,
+            "N1": 0.2775,
+            "Wake": 0.0109,
+            "N3": 0.0035
+        },
+        "margin_error": 0.1526
+    },
+    {
+        "id": 517,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5475,
+            "REM": 0.3279,
+            "N1": 0.1228,
+            "Wake": 0.0047,
+            "N3": 0.0008
+        },
+        "margin_error": 0.4247
+    },
+    {
+        "id": 530,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5676,
+            "N1": 0.3654,
+            "REM": 0.0259,
+            "Wake": 0.0054,
+            "N3": 0.0018
+        },
+        "margin_error": 0.2022
+    },
+    {
+        "id": 534,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9618,
+            "N1": 0.0636,
+            "N2": 0.0009,
+            "REM": 0.0008,
+            "N3": 0.0002
+        },
+        "margin_error": 0.8982
+    },
+    {
+        "id": 535,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8856,
+            "N2": 0.0352,
+            "Wake": 0.0072,
+            "REM": 0.0018,
+            "N3": 0.0006
+        },
+        "margin_error": 0.8504
+    },
+    {
+        "id": 607,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7873,
+            "N1": 0.1312,
+            "Wake": 0.0377,
+            "REM": 0.0243,
+            "N3": 0.0023
+        },
+        "margin_error": 0.6561
+    },
+    {
+        "id": 608,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8602,
+            "N1": 0.0964,
+            "REM": 0.0148,
+            "Wake": 0.0079,
+            "N3": 0.0044
+        },
+        "margin_error": 0.7638
+    },
+    {
+        "id": 611,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5146,
+            "N1": 0.4098,
+            "REM": 0.028,
+            "Wake": 0.0089,
+            "N3": 0.0026
+        },
+        "margin_error": 0.1048
+    },
+    {
+        "id": 624,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4333,
+            "N2": 0.3367,
+            "Wake": 0.1052,
+            "REM": 0.0908,
+            "N3": 0.0066
+        },
+        "margin_error": 0.0966
+    },
+    {
+        "id": 626,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5655,
+            "N1": 0.4175,
+            "REM": 0.0019,
+            "N2": 0.001,
+            "N3": 0.0004
+        },
+        "margin_error": 0.148
+    },
+    {
+        "id": 636,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4495,
+            "N2": 0.4357,
+            "Wake": 0.0529,
+            "REM": 0.0225,
+            "N3": 0.0021
+        },
+        "margin_error": 0.0138
+    },
+    {
+        "id": 638,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9908,
+            "N1": 0.0333,
+            "N2": 0.0045,
+            "REM": 0.0015,
+            "N3": 0.0004
+        },
+        "margin_error": 0.9575
+    },
+    {
+        "id": 711,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7231,
+            "REM": 0.1717,
+            "N1": 0.119,
+            "N2": 0.0104,
+            "N3": 0.0012
+        },
+        "margin_error": 0.6041
+    },
+    {
+        "id": 760,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3876,
+            "N2": 0.3075,
+            "REM": 0.2195,
+            "Wake": 0.0603,
+            "N3": 0.0088
+        },
+        "margin_error": 0.1681
+    },
+    {
+        "id": 767,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.5727,
+            "N1": 0.2105,
+            "Wake": 0.1514,
+            "N2": 0.085,
+            "N3": 0.0044
+        },
+        "margin_error": 0.3622
+    },
+    {
+        "id": 770,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9508,
+            "N1": 0.0643,
+            "REM": 0.0092,
+            "N2": 0.0026,
+            "N3": 0.0004
+        },
+        "margin_error": 0.8865
+    },
+    {
+        "id": 777,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8064,
+            "REM": 0.0756,
+            "N2": 0.0451,
+            "Wake": 0.0126,
+            "N3": 0.0019
+        },
+        "margin_error": 0.7613
+    },
+    {
+        "id": 778,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4732,
+            "REM": 0.2937,
+            "N2": 0.1746,
+            "Wake": 0.0338,
+            "N3": 0.0064
+        },
+        "margin_error": 0.2986
+    },
+    {
+        "id": 873,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5064,
+            "N2": 0.3871,
+            "REM": 0.0458,
+            "Wake": 0.0163,
+            "N3": 0.0041
+        },
+        "margin_error": 0.1193
+    },
+    {
+        "id": 877,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.4548,
+            "N1": 0.3753,
+            "Wake": 0.0892,
+            "REM": 0.0463,
+            "N3": 0.0067
+        },
+        "margin_error": 0.0795
+    },
+    {
+        "id": 882,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5529,
+            "N1": 0.3541,
+            "Wake": 0.0354,
+            "REM": 0.0242,
+            "N3": 0.0014
+        },
+        "margin_error": 0.1988
+    },
+    {
+        "id": 908,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6821,
+            "N2": 0.2497,
+            "N1": 0.0609,
+            "REM": 0.0219,
+            "N3": 0.002
+        },
+        "margin_error": 0.6212
+    },
+    {
+        "id": 909,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7955,
+            "N2": 0.1185,
+            "REM": 0.0129,
+            "Wake": 0.009,
+            "N3": 0.0015
+        },
+        "margin_error": 0.677
+    },
+    {
+        "id": 956,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4533,
+            "REM": 0.3356,
+            "N2": 0.1119,
+            "Wake": 0.083,
+            "N3": 0.0037
+        },
+        "margin_error": 0.1177
+    },
+    {
+        "id": 960,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6399,
+            "Wake": 0.2276,
+            "REM": 0.0562,
+            "N2": 0.0352,
+            "N3": 0.002
+        },
+        "margin_error": 0.5837
+    },
+    {
+        "id": 992,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.425,
+            "Wake": 0.3383,
+            "N2": 0.2026,
+            "REM": 0.0074,
+            "N3": 0.0033
+        },
+        "margin_error": 0.0867
+    },
+    {
+        "id": 1018,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4155,
+            "Wake": 0.3526,
+            "N2": 0.1991,
+            "REM": 0.0079,
+            "N3": 0.0026
+        },
+        "margin_error": 0.0629
+    },
+    {
+        "id": 1034,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.415,
+            "N2": 0.3444,
+            "Wake": 0.202,
+            "REM": 0.0069,
+            "N3": 0.0024
+        },
+        "margin_error": 0.213
+    },
+    {
+        "id": 1039,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5405,
+            "Wake": 0.383,
+            "N2": 0.0399,
+            "REM": 0.0053,
+            "N3": 0.0019
+        },
+        "margin_error": 0.1575
+    },
+    {
+        "id": 1043,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4507,
+            "Wake": 0.2809,
+            "N2": 0.2271,
+            "REM": 0.0096,
+            "N3": 0.0045
+        },
+        "margin_error": 0.1698
+    },
+    {
+        "id": 1044,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3542,
+            "Wake": 0.3086,
+            "N2": 0.3018,
+            "REM": 0.0109,
+            "N3": 0.0053
+        },
+        "margin_error": 0.0456
+    },
+    {
+        "id": 1115,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5405,
+            "Wake": 0.4212,
+            "N2": 0.0075,
+            "REM": 0.0019,
+            "N3": 0.0007
+        },
+        "margin_error": 0.1193
+    },
+    {
+        "id": 1117,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.4061,
+            "Wake": 0.2929,
+            "N1": 0.2758,
+            "REM": 0.007,
+            "N3": 0.002
+        },
+        "margin_error": 0.1303
+    },
+    {
+        "id": 1118,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9306,
+            "N2": 0.0568,
+            "N1": 0.0377,
+            "REM": 0.002,
+            "N3": 0.0006
+        },
+        "margin_error": 0.8929
+    },
+    {
+        "id": 1266,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9534,
+            "N1": 0.0308,
+            "REM": 0.0006,
+            "Wake": 0.0004,
+            "N3": 0.0001
+        },
+        "margin_error": 0.9226
+    },
+    {
+        "id": 1282,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5916,
+            "N1": 0.3703,
+            "Wake": 0.0009,
+            "REM": 0.0003,
+            "N3": 0.0002
+        },
+        "margin_error": 0.2213
+    },
+    {
+        "id": 1285,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8074,
+            "N1": 0.1681,
+            "Wake": 0.0004,
+            "N3": 0.0002,
+            "REM": 0.0002
+        },
+        "margin_error": 0.6393
+    },
+    {
+        "id": 1290,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6262,
+            "N1": 0.3383,
+            "Wake": 0.0003,
+            "N3": 0.0002,
+            "REM": 0.0002
+        },
+        "margin_error": 0.2879
+    },
+    {
+        "id": 1405,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5942,
+            "N2": 0.3035,
+            "REM": 0.0526,
+            "Wake": 0.0014,
+            "N3": 0.0012
+        },
+        "margin_error": 0.5416
+    },
+    {
+        "id": 1410,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.881,
+            "REM": 0.0222,
+            "N2": 0.0213,
+            "Wake": 0.0066,
+            "N3": 0.0014
+        },
+        "margin_error": 0.8588
+    },
+    {
+        "id": 1411,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5742,
+            "N2": 0.2046,
+            "REM": 0.1755,
+            "Wake": 0.0064,
+            "N3": 0.0035
+        },
+        "margin_error": 0.3987
+    },
+    {
+        "id": 1412,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4565,
+            "REM": 0.2758,
+            "N2": 0.2316,
+            "Wake": 0.0117,
+            "N3": 0.004
+        },
+        "margin_error": 0.1807
+    },
+    {
+        "id": 1413,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4758,
+            "N2": 0.3143,
+            "REM": 0.1726,
+            "Wake": 0.0048,
+            "N3": 0.0024
+        },
+        "margin_error": 0.3032
+    },
+    {
+        "id": 1415,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7389,
+            "N2": 0.1208,
+            "REM": 0.079,
+            "Wake": 0.005,
+            "N3": 0.0023
+        },
+        "margin_error": 0.6599
+    },
+    {
+        "id": 1417,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7194,
+            "N2": 0.1125,
+            "REM": 0.1094,
+            "Wake": 0.0059,
+            "N3": 0.0024
+        },
+        "margin_error": 0.61
+    },
+    {
+        "id": 1421,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4123,
+            "REM": 0.2872,
+            "N2": 0.2748,
+            "Wake": 0.006,
+            "N3": 0.0022
+        },
+        "margin_error": 0.1251
+    },
+    {
+        "id": 1426,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7032,
+            "N2": 0.1866,
+            "REM": 0.0409,
+            "Wake": 0.0127,
+            "N3": 0.0026
+        },
+        "margin_error": 0.6623
+    },
+    {
+        "id": 1528,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8425,
+            "N2": 0.0886,
+            "REM": 0.0007,
+            "Wake": 0.0006,
+            "N3": 0.0002
+        },
+        "margin_error": 0.7539
+    },
+    {
+        "id": 1556,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7145,
+            "REM": 0.19,
+            "N2": 0.0366,
+            "Wake": 0.0126,
+            "N3": 0.0025
+        },
+        "margin_error": 0.5245
+    },
+    {
+        "id": 1563,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.654,
+            "REM": 0.2631,
+            "N2": 0.0281,
+            "Wake": 0.0188,
+            "N3": 0.0015
+        },
+        "margin_error": 0.3909
+    },
+    {
+        "id": 1564,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7187,
+            "REM": 0.1674,
+            "N2": 0.0566,
+            "Wake": 0.0094,
+            "N3": 0.0017
+        },
+        "margin_error": 0.5513
+    },
+    {
+        "id": 1567,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.9086,
+            "REM": 0.0086,
+            "Wake": 0.0072,
+            "N2": 0.0046,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9014
+    },
+    {
+        "id": 1570,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4485,
+            "N2": 0.3293,
+            "REM": 0.1914,
+            "Wake": 0.0024,
+            "N3": 0.0012
+        },
+        "margin_error": 0.2571
+    },
+    {
+        "id": 1610,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7115,
+            "N1": 0.1591,
+            "N2": 0.0851,
+            "Wake": 0.0731,
+            "N3": 0.0054
+        },
+        "margin_error": 0.5524
+    },
+    {
+        "id": 1611,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7963,
+            "N1": 0.1204,
+            "N2": 0.066,
+            "Wake": 0.0549,
+            "N3": 0.0044
+        },
+        "margin_error": 0.6759
+    },
+    {
+        "id": 1612,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.5367,
+            "N1": 0.4222,
+            "N2": 0.0309,
+            "Wake": 0.0081,
+            "N3": 0.0027
+        },
+        "margin_error": 0.1145
+    },
+    {
+        "id": 1617,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4544,
+            "REM": 0.3896,
+            "N2": 0.1356,
+            "Wake": 0.0046,
+            "N3": 0.0035
+        },
+        "margin_error": 0.3188
+    },
+    {
+        "id": 1767,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5268,
+            "Wake": 0.4368,
+            "N2": 0.0067,
+            "REM": 0.0022,
+            "N3": 0.0008
+        },
+        "margin_error": 0.09
+    },
+    {
+        "id": 1771,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7226,
+            "N1": 0.2431,
+            "REM": 0.005,
+            "Wake": 0.0008,
+            "N3": 0.0003
+        },
+        "margin_error": 0.4795
+    },
+    {
+        "id": 1774,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6553,
+            "N1": 0.3057,
+            "REM": 0.0035,
+            "Wake": 0.0025,
+            "N3": 0.001
+        },
+        "margin_error": 0.3496
+    },
+    {
+        "id": 1775,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9289,
+            "N1": 0.0509,
+            "REM": 0.0022,
+            "Wake": 0.0015,
+            "N3": 0.0008
+        },
+        "margin_error": 0.878
+    },
+    {
+        "id": 1778,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8203,
+            "N1": 0.0994,
+            "Wake": 0.06,
+            "REM": 0.0031,
+            "N3": 0.0012
+        },
+        "margin_error": 0.7209
+    },
+    {
+        "id": 1779,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5028,
+            "N2": 0.4476,
+            "REM": 0.0022,
+            "Wake": 0.0015,
+            "N3": 0.001
+        },
+        "margin_error": 0.0552
+    },
+    {
+        "id": 1781,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8509,
+            "N1": 0.1249,
+            "REM": 0.0019,
+            "Wake": 0.001,
+            "N3": 0.0007
+        },
+        "margin_error": 0.726
+    },
+    {
+        "id": 1800,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6585,
+            "N1": 0.2396,
+            "Wake": 0.0722,
+            "REM": 0.0039,
+            "N3": 0.0014
+        },
+        "margin_error": 0.4189
+    },
+    {
+        "id": 1812,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7758,
+            "Wake": 0.1259,
+            "N1": 0.084,
+            "REM": 0.0012,
+            "N3": 0.0008
+        },
+        "margin_error": 0.6918
+    },
+    {
+        "id": 1813,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7794,
+            "N2": 0.1537,
+            "Wake": 0.0027,
+            "REM": 0.0006,
+            "N3": 0.0005
+        },
+        "margin_error": 0.6257
+    },
+    {
+        "id": 1895,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8364,
+            "N2": 0.1585,
+            "N1": 0.0261,
+            "REM": 0.0022,
+            "N3": 0.0008
+        },
+        "margin_error": 0.8103
+    },
+    {
+        "id": 1899,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8335,
+            "N2": 0.0802,
+            "REM": 0.0116,
+            "Wake": 0.0086,
+            "N3": 0.0007
+        },
+        "margin_error": 0.8219
+    },
+    {
+        "id": 1900,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6924,
+            "N2": 0.2139,
+            "REM": 0.0249,
+            "Wake": 0.0129,
+            "N3": 0.0008
+        },
+        "margin_error": 0.6675
+    },
+    {
+        "id": 1901,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8201,
+            "REM": 0.0606,
+            "N2": 0.0545,
+            "Wake": 0.0028,
+            "N3": 0.0009
+        },
+        "margin_error": 0.7595
+    },
+    {
+        "id": 1902,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5366,
+            "N2": 0.2842,
+            "REM": 0.1396,
+            "Wake": 0.0015,
+            "N3": 0.0014
+        },
+        "margin_error": 0.397
+    },
+    {
+        "id": 1925,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4241,
+            "Wake": 0.3273,
+            "REM": 0.1303,
+            "N2": 0.1003,
+            "N3": 0.0034
+        },
+        "margin_error": 0.2938
+    },
+    {
+        "id": 1929,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5997,
+            "REM": 0.1918,
+            "N2": 0.1565,
+            "Wake": 0.0131,
+            "N3": 0.0028
+        },
+        "margin_error": 0.4079
+    },
+    {
+        "id": 1940,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8742,
+            "N1": 0.0927,
+            "REM": 0.0138,
+            "Wake": 0.001,
+            "N3": 0.0005
+        },
+        "margin_error": 0.7815
+    },
+    {
+        "id": 1972,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6197,
+            "N2": 0.3253,
+            "Wake": 0.001,
+            "REM": 0.0008,
+            "N3": 0.0003
+        },
+        "margin_error": 0.2944
+    },
+    {
+        "id": 2066,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5073,
+            "N2": 0.3643,
+            "Wake": 0.0758,
+            "N3": 0.0121,
+            "REM": 0.0023
+        },
+        "margin_error": 0.143
+    },
+    {
+        "id": 2102,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9103,
+            "N1": 0.1008,
+            "N2": 0.009,
+            "REM": 0.002,
+            "N3": 0.0005
+        },
+        "margin_error": 0.8095
+    },
+    {
+        "id": 2147,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0068,
+            "N1": 0.0199,
+            "N2": 0.0045,
+            "REM": 0.0007,
+            "N3": 0.0002
+        },
+        "margin_error": 0.9869
+    },
+    {
+        "id": 2157,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6192,
+            "N1": 0.2355,
+            "N2": 0.1389,
+            "REM": 0.0058,
+            "N3": 0.0018
+        },
+        "margin_error": 0.3837
+    },
+    {
+        "id": 2158,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8081,
+            "N1": 0.1773,
+            "N2": 0.0235,
+            "REM": 0.0035,
+            "N3": 0.0009
+        },
+        "margin_error": 0.6308
+    },
+    {
+        "id": 2160,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8957,
+            "N1": 0.1003,
+            "N2": 0.0204,
+            "REM": 0.0051,
+            "N3": 0.0006
+        },
+        "margin_error": 0.7954
+    },
+    {
+        "id": 2162,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3927,
+            "N2": 0.3011,
+            "Wake": 0.2494,
+            "REM": 0.0296,
+            "N3": 0.0034
+        },
+        "margin_error": 0.0916
+    },
+    {
+        "id": 2165,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9641,
+            "N1": 0.0196,
+            "REM": 0.0012,
+            "Wake": 0.001,
+            "N3": 0.0002
+        },
+        "margin_error": 0.9445
+    },
+    {
+        "id": 2194,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5389,
+            "N2": 0.2654,
+            "Wake": 0.1484,
+            "REM": 0.0041,
+            "N3": 0.0037
+        },
+        "margin_error": 0.2735
+    },
+    {
+        "id": 2200,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7119,
+            "N2": 0.1269,
+            "Wake": 0.1037,
+            "REM": 0.0021,
+            "N3": 0.0018
+        },
+        "margin_error": 0.585
+    },
+    {
+        "id": 2218,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.738,
+            "N1": 0.1827,
+            "REM": 0.0504,
+            "N2": 0.0405,
+            "N3": 0.0016
+        },
+        "margin_error": 0.5553
+    },
+    {
+        "id": 2219,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0005,
+            "N1": 0.0194,
+            "N2": 0.0073,
+            "REM": 0.0046,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9811
+    },
+    {
+        "id": 2243,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6084,
+            "REM": 0.3215,
+            "Wake": 0.0401,
+            "N2": 0.0029,
+            "N3": 0.0005
+        },
+        "margin_error": 0.2869
+    },
+    {
+        "id": 2244,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7242,
+            "REM": 0.2231,
+            "Wake": 0.0066,
+            "N2": 0.0028,
+            "N3": 0.0004
+        },
+        "margin_error": 0.5011
+    },
+    {
+        "id": 2246,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8869,
+            "N2": 0.0213,
+            "REM": 0.0213,
+            "Wake": 0.0015,
+            "N3": 0.0003
+        },
+        "margin_error": 0.8656
+    },
+    {
+        "id": 2414,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.9142,
+            "Wake": 0.008,
+            "N2": 0.0039,
+            "REM": 0.0022,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9062
+    },
+    {
+        "id": 2415,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5558,
+            "N2": 0.3304,
+            "Wake": 0.0406,
+            "REM": 0.0268,
+            "N3": 0.0021
+        },
+        "margin_error": 0.5152
+    },
+    {
+        "id": 2416,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8254,
+            "N1": 0.1414,
+            "REM": 0.0066,
+            "Wake": 0.0046,
+            "N3": 0.0009
+        },
+        "margin_error": 0.684
+    },
+    {
+        "id": 2417,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9852,
+            "N1": 0.0012,
+            "REM": 0.0005,
+            "Wake": 0.0002,
+            "N3": 0.0001
+        },
+        "margin_error": 0.984
+    },
+    {
+        "id": 2474,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5495,
+            "N1": 0.3954,
+            "Wake": 0.0133,
+            "REM": 0.0032,
+            "N3": 0.0015
+        },
+        "margin_error": 0.1541
+    },
+    {
+        "id": 2486,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9846,
+            "N1": 0.0019,
+            "Wake": 0.0003,
+            "N3": 0.0001,
+            "REM": 0.0001
+        },
+        "margin_error": 0.9827
+    },
+    {
+        "id": 2518,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6579,
+            "N2": 0.1911,
+            "Wake": 0.096,
+            "REM": 0.003,
+            "N3": 0.0018
+        },
+        "margin_error": 0.4668
+    },
+    {
+        "id": 2570,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8478,
+            "Wake": 0.0554,
+            "N2": 0.0207,
+            "REM": 0.0109,
+            "N3": 0.001
+        },
+        "margin_error": 0.7924
+    },
+    {
+        "id": 2571,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4899,
+            "N2": 0.1838,
+            "Wake": 0.1609,
+            "REM": 0.1362,
+            "N3": 0.0029
+        },
+        "margin_error": 0.329
+    },
+    {
+        "id": 2606,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5635,
+            "Wake": 0.2633,
+            "N2": 0.1271,
+            "REM": 0.0069,
+            "N3": 0.0035
+        },
+        "margin_error": 0.3002
+    },
+    {
+        "id": 2607,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3278,
+            "N2": 0.313,
+            "Wake": 0.3045,
+            "REM": 0.032,
+            "N3": 0.0073
+        },
+        "margin_error": 0.0233
+    },
+    {
+        "id": 2618,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7644,
+            "Wake": 0.1467,
+            "REM": 0.0244,
+            "N2": 0.0097,
+            "N3": 0.0014
+        },
+        "margin_error": 0.6177
+    },
+    {
+        "id": 2625,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.404,
+            "N2": 0.3111,
+            "REM": 0.2583,
+            "Wake": 0.0045,
+            "N3": 0.0034
+        },
+        "margin_error": 0.0929
+    },
+    {
+        "id": 2629,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6546,
+            "N2": 0.2048,
+            "REM": 0.0862,
+            "Wake": 0.0035,
+            "N3": 0.0031
+        },
+        "margin_error": 0.4498
+    },
+    {
+        "id": 2756,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7306,
+            "N2": 0.1729,
+            "REM": 0.0194,
+            "Wake": 0.0115,
+            "N3": 0.0107
+        },
+        "margin_error": 0.5577
+    },
+    {
+        "id": 2851,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7048,
+            "N2": 0.2091,
+            "N3": 0.0157,
+            "REM": 0.0128,
+            "Wake": 0.0052
+        },
+        "margin_error": 0.4957
+    },
+    {
+        "id": 2860,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5171,
+            "N1": 0.4343,
+            "REM": 0.0238,
+            "N2": 0.0083,
+            "N3": 0.0014
+        },
+        "margin_error": 0.0828
+    },
+    {
+        "id": 2862,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7906,
+            "REM": 0.0749,
+            "N2": 0.0645,
+            "Wake": 0.0097,
+            "N3": 0.0031
+        },
+        "margin_error": 0.7261
+    },
+    {
+        "id": 2864,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7585,
+            "N1": 0.2185,
+            "N2": 0.0172,
+            "REM": 0.0136,
+            "N3": 0.0013
+        },
+        "margin_error": 0.54
+    },
+    {
+        "id": 2869,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.6422,
+            "N1": 0.2487,
+            "N2": 0.0759,
+            "REM": 0.0328,
+            "N3": 0.0047
+        },
+        "margin_error": 0.3935
+    },
+    {
+        "id": 2875,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6682,
+            "REM": 0.2071,
+            "N2": 0.057,
+            "Wake": 0.0263,
+            "N3": 0.0025
+        },
+        "margin_error": 0.6112
+    },
+    {
+        "id": 2876,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6025,
+            "REM": 0.1645,
+            "N2": 0.1423,
+            "Wake": 0.0503,
+            "N3": 0.0042
+        },
+        "margin_error": 0.4602
+    },
+    {
+        "id": 2877,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5275,
+            "REM": 0.2981,
+            "N2": 0.1178,
+            "Wake": 0.0306,
+            "N3": 0.0034
+        },
+        "margin_error": 0.4097
+    },
+    {
+        "id": 2923,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.4417,
+            "N1": 0.3682,
+            "REM": 0.1574,
+            "N3": 0.0051,
+            "Wake": 0.0043
+        },
+        "margin_error": 0.0735
+    },
+    {
+        "id": 3048,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7144,
+            "N1": 0.2388,
+            "Wake": 0.0088,
+            "REM": 0.0078,
+            "N3": 0.0042
+        },
+        "margin_error": 0.4756
+    },
+    {
+        "id": 3085,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7067,
+            "N1": 0.2834,
+            "N2": 0.0063,
+            "REM": 0.0046,
+            "N3": 0.0006
+        },
+        "margin_error": 0.4233
+    },
+    {
+        "id": 3089,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5778,
+            "N2": 0.3343,
+            "REM": 0.026,
+            "Wake": 0.0121,
+            "N3": 0.0028
+        },
+        "margin_error": 0.2435
+    },
+    {
+        "id": 3117,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6491,
+            "Wake": 0.2767,
+            "REM": 0.021,
+            "N2": 0.0113,
+            "N3": 0.0019
+        },
+        "margin_error": 0.3724
+    },
+    {
+        "id": 3119,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8083,
+            "N1": 0.1526,
+            "N2": 0.0444,
+            "Wake": 0.0307,
+            "N3": 0.0031
+        },
+        "margin_error": 0.6557
+    },
+    {
+        "id": 3120,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4827,
+            "N1": 0.4358,
+            "N2": 0.0669,
+            "Wake": 0.0071,
+            "N3": 0.0033
+        },
+        "margin_error": 0.0469
+    },
+    {
+        "id": 3123,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7714,
+            "REM": 0.0893,
+            "N1": 0.0891,
+            "N2": 0.0712,
+            "N3": 0.0034
+        },
+        "margin_error": 0.6823
+    },
+    {
+        "id": 3130,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6966,
+            "N1": 0.2967,
+            "N2": 0.02,
+            "Wake": 0.0041,
+            "N3": 0.0028
+        },
+        "margin_error": 0.3999
+    },
+    {
+        "id": 3136,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4321,
+            "REM": 0.3781,
+            "Wake": 0.1579,
+            "N2": 0.0242,
+            "N3": 0.0028
+        },
+        "margin_error": 0.2742
+    },
+    {
+        "id": 3137,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.5089,
+            "N1": 0.4666,
+            "N2": 0.0148,
+            "Wake": 0.0034,
+            "N3": 0.0012
+        },
+        "margin_error": 0.0423
+    },
+    {
+        "id": 3138,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0271,
+            "N1": 0.0181,
+            "N2": 0.0146,
+            "Wake": 0.0011,
+            "N3": 0.0011
+        },
+        "margin_error": 1.009
+    },
+    {
+        "id": 3157,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6025,
+            "REM": 0.289,
+            "N2": 0.0631,
+            "Wake": 0.0125,
+            "N3": 0.0042
+        },
+        "margin_error": 0.3135
+    },
+    {
+        "id": 3166,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5696,
+            "N2": 0.2265,
+            "REM": 0.1415,
+            "Wake": 0.0188,
+            "N3": 0.0075
+        },
+        "margin_error": 0.4281
+    },
+    {
+        "id": 3202,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7445,
+            "REM": 0.1514,
+            "N2": 0.0488,
+            "Wake": 0.0037,
+            "N3": 0.0027
+        },
+        "margin_error": 0.5931
+    },
+    {
+        "id": 3305,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8997,
+            "Wake": 0.0411,
+            "REM": 0.0278,
+            "N1": 0.0141,
+            "N3": 0.0109
+        },
+        "margin_error": 0.8856
+    },
+    {
+        "id": 3306,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7738,
+            "N1": 0.1734,
+            "REM": 0.0186,
+            "N3": 0.0088,
+            "Wake": 0.0057
+        },
+        "margin_error": 0.6004
+    },
+    {
+        "id": 3351,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9247,
+            "N1": 0.0375,
+            "REM": 0.014,
+            "Wake": 0.0069,
+            "N3": 0.0043
+        },
+        "margin_error": 0.8872
+    },
+    {
+        "id": 3382,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4766,
+            "N2": 0.4315,
+            "Wake": 0.0625,
+            "N1": 0.047,
+            "N3": 0.0064
+        },
+        "margin_error": 0.4296
+    },
+    {
+        "id": 3385,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.3457,
+            "REM": 0.3254,
+            "Wake": 0.2798,
+            "N1": 0.0641,
+            "N3": 0.0068
+        },
+        "margin_error": 0.2816
+    },
+    {
+        "id": 3386,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5812,
+            "Wake": 0.3089,
+            "N2": 0.0429,
+            "REM": 0.0312,
+            "N3": 0.0026
+        },
+        "margin_error": 0.2723
+    },
+    {
+        "id": 3392,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7732,
+            "N1": 0.1541,
+            "N2": 0.0999,
+            "Wake": 0.0044,
+            "N3": 0.0039
+        },
+        "margin_error": 0.6191
+    },
+    {
+        "id": 3393,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.823,
+            "N2": 0.1693,
+            "N1": 0.0431,
+            "Wake": 0.0069,
+            "N3": 0.0042
+        },
+        "margin_error": 0.7799
+    },
+    {
+        "id": 3402,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4638,
+            "N2": 0.2899,
+            "N1": 0.2222,
+            "Wake": 0.0284,
+            "N3": 0.0057
+        },
+        "margin_error": 0.2416
+    },
+    {
+        "id": 3403,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4536,
+            "N1": 0.4016,
+            "N2": 0.1238,
+            "Wake": 0.013,
+            "N3": 0.0047
+        },
+        "margin_error": 0.052
+    },
+    {
+        "id": 3404,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4538,
+            "REM": 0.2784,
+            "N2": 0.2348,
+            "Wake": 0.0079,
+            "N3": 0.0055
+        },
+        "margin_error": 0.219
+    },
+    {
+        "id": 3421,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.9881,
+            "N1": 0.0529,
+            "N2": 0.0133,
+            "N3": 0.0014,
+            "Wake": 0.0012
+        },
+        "margin_error": 0.9352
+    },
+    {
+        "id": 3422,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0431,
+            "N2": 0.0116,
+            "N1": 0.0076,
+            "N3": 0.0008,
+            "Wake": 0.0007
+        },
+        "margin_error": 1.0355
+    },
+    {
+        "id": 3423,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0552,
+            "N2": 0.0073,
+            "N1": 0.0015,
+            "Wake": 0.0004,
+            "N3": 0.0004
+        },
+        "margin_error": 1.0537
+    },
+    {
+        "id": 3501,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5743,
+            "N1": 0.3558,
+            "REM": 0.031,
+            "N3": 0.0034,
+            "Wake": 0.003
+        },
+        "margin_error": 0.2185
+    },
+    {
+        "id": 3552,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4328,
+            "N2": 0.3956,
+            "Wake": 0.1108,
+            "REM": 0.025,
+            "N3": 0.0026
+        },
+        "margin_error": 0.322
+    },
+    {
+        "id": 3555,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5876,
+            "Wake": 0.2438,
+            "N2": 0.1037,
+            "REM": 0.0256,
+            "N3": 0.0021
+        },
+        "margin_error": 0.3438
+    },
+    {
+        "id": 3557,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5585,
+            "Wake": 0.3817,
+            "N2": 0.015,
+            "REM": 0.0134,
+            "N3": 0.0012
+        },
+        "margin_error": 0.1768
+    },
+    {
+        "id": 3558,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6795,
+            "Wake": 0.2064,
+            "N2": 0.0426,
+            "REM": 0.0241,
+            "N3": 0.0024
+        },
+        "margin_error": 0.4731
+    },
+    {
+        "id": 3610,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.773,
+            "N1": 0.1565,
+            "REM": 0.0773,
+            "N2": 0.0102,
+            "N3": 0.0014
+        },
+        "margin_error": 0.6165
+    },
+    {
+        "id": 3614,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6461,
+            "N1": 0.2503,
+            "REM": 0.0748,
+            "Wake": 0.0038,
+            "N3": 0.0023
+        },
+        "margin_error": 0.3958
+    },
+    {
+        "id": 3620,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8537,
+            "N1": 0.1139,
+            "REM": 0.0121,
+            "N3": 0.0007,
+            "Wake": 0.0005
+        },
+        "margin_error": 0.7398
+    },
+    {
+        "id": 3715,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8352,
+            "N1": 0.1402,
+            "REM": 0.0019,
+            "Wake": 0.0006,
+            "N3": 0.0004
+        },
+        "margin_error": 0.695
+    },
+    {
+        "id": 3716,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7331,
+            "N1": 0.2365,
+            "REM": 0.0017,
+            "Wake": 0.0004,
+            "N3": 0.0003
+        },
+        "margin_error": 0.4966
+    },
+    {
+        "id": 3848,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8651,
+            "N2": 0.0511,
+            "Wake": 0.0109,
+            "REM": 0.0039,
+            "N3": 0.0012
+        },
+        "margin_error": 0.8542
+    },
+    {
+        "id": 3904,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4486,
+            "N2": 0.3152,
+            "N1": 0.234,
+            "Wake": 0.0065,
+            "N3": 0.0014
+        },
+        "margin_error": 0.2146
+    },
+    {
+        "id": 3961,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8554,
+            "N2": 0.0686,
+            "REM": 0.007,
+            "Wake": 0.0009,
+            "N3": 0.0006
+        },
+        "margin_error": 0.7868
+    },
+    {
+        "id": 3974,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5472,
+            "Wake": 0.4159,
+            "N2": 0.0049,
+            "REM": 0.0025,
+            "N3": 0.0007
+        },
+        "margin_error": 0.1313
+    },
+    {
+        "id": 3976,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7753,
+            "N2": 0.1454,
+            "REM": 0.0142,
+            "Wake": 0.0026,
+            "N3": 0.0009
+        },
+        "margin_error": 0.6299
+    },
+    {
+        "id": 4006,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7932,
+            "N1": 0.1697,
+            "REM": 0.0074,
+            "Wake": 0.0043,
+            "N3": 0.0032
+        },
+        "margin_error": 0.6235
+    },
+    {
+        "id": 4043,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7248,
+            "REM": 0.2134,
+            "Wake": 0.0141,
+            "N2": 0.0038,
+            "N3": 0.0006
+        },
+        "margin_error": 0.5114
+    },
+    {
+        "id": 4047,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.983,
+            "REM": 0.0273,
+            "N1": 0.0212,
+            "N2": 0.0011,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9618
+    },
+    {
+        "id": 4048,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7094,
+            "N1": 0.1864,
+            "Wake": 0.1318,
+            "N2": 0.0051,
+            "N3": 0.0009
+        },
+        "margin_error": 0.523
+    },
+    {
+        "id": 4049,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.977,
+            "N1": 0.0686,
+            "Wake": 0.0057,
+            "N2": 0.0034,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9084
+    },
+    {
+        "id": 4080,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8053,
+            "N1": 0.2188,
+            "N2": 0.0043,
+            "Wake": 0.0036,
+            "N3": 0.0006
+        },
+        "margin_error": 0.5865
+    },
+    {
+        "id": 4226,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6665,
+            "N2": 0.1718,
+            "REM": 0.1088,
+            "Wake": 0.0043,
+            "N3": 0.0013
+        },
+        "margin_error": 0.4947
+    },
+    {
+        "id": 4326,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.942,
+            "N1": 0.0954,
+            "Wake": 0.0066,
+            "N2": 0.0064,
+            "N3": 0.0004
+        },
+        "margin_error": 0.8466
+    },
+    {
+        "id": 4327,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.9616,
+            "N1": 0.0722,
+            "N2": 0.0185,
+            "Wake": 0.0007,
+            "N3": 0.0004
+        },
+        "margin_error": 0.8894
+    },
+    {
+        "id": 4328,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0158,
+            "N2": 0.0418,
+            "N1": 0.0035,
+            "Wake": 0.0005,
+            "N3": 0.0002
+        },
+        "margin_error": 1.0123
+    },
+    {
+        "id": 4329,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.955,
+            "N2": 0.0806,
+            "N1": 0.019,
+            "Wake": 0.0012,
+            "N3": 0.0007
+        },
+        "margin_error": 0.936
+    },
+    {
+        "id": 4330,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6004,
+            "N2": 0.3296,
+            "N1": 0.0921,
+            "Wake": 0.0021,
+            "N3": 0.0018
+        },
+        "margin_error": 0.5083
+    },
+    {
+        "id": 4331,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.577,
+            "N2": 0.432,
+            "N1": 0.0178,
+            "N3": 0.0012,
+            "Wake": 0.0009
+        },
+        "margin_error": 0.5592
+    },
+    {
+        "id": 4436,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.826,
+            "REM": 0.0917,
+            "N2": 0.0155,
+            "Wake": 0.0069,
+            "N3": 0.0008
+        },
+        "margin_error": 0.7343
+    },
+    {
+        "id": 4485,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7452,
+            "N1": 0.2196,
+            "Wake": 0.0475,
+            "N2": 0.0171,
+            "N3": 0.0009
+        },
+        "margin_error": 0.5256
+    },
+    {
+        "id": 4491,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3641,
+            "N2": 0.3421,
+            "REM": 0.2724,
+            "Wake": 0.0043,
+            "N3": 0.0014
+        },
+        "margin_error": 0.022
+    },
+    {
+        "id": 4492,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6114,
+            "N2": 0.2701,
+            "REM": 0.0698,
+            "Wake": 0.0008,
+            "N3": 0.0008
+        },
+        "margin_error": 0.3413
+    },
+    {
+        "id": 4501,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8063,
+            "REM": 0.1081,
+            "N1": 0.073,
+            "Wake": 0.002,
+            "N3": 0.0014
+        },
+        "margin_error": 0.7333
+    },
+    {
+        "id": 4504,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.4381,
+            "N1": 0.3627,
+            "REM": 0.1072,
+            "Wake": 0.0654,
+            "N3": 0.0015
+        },
+        "margin_error": 0.0754
+    },
+    {
+        "id": 4558,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5298,
+            "N1": 0.4304,
+            "N2": 0.0172,
+            "REM": 0.0057,
+            "N3": 0.0012
+        },
+        "margin_error": 0.0994
+    },
+    {
+        "id": 4560,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6614,
+            "N2": 0.2453,
+            "Wake": 0.0324,
+            "REM": 0.0057,
+            "N3": 0.002
+        },
+        "margin_error": 0.4161
+    },
+    {
+        "id": 4770,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.593,
+            "REM": 0.187,
+            "N2": 0.1502,
+            "Wake": 0.0309,
+            "N3": 0.004
+        },
+        "margin_error": 0.406
+    },
+    {
+        "id": 4771,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5025,
+            "N2": 0.2037,
+            "Wake": 0.1387,
+            "REM": 0.1216,
+            "N3": 0.0048
+        },
+        "margin_error": 0.3809
+    },
+    {
+        "id": 4775,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8086,
+            "Wake": 0.1029,
+            "REM": 0.0152,
+            "N2": 0.0131,
+            "N3": 0.0012
+        },
+        "margin_error": 0.7934
+    },
+    {
+        "id": 4776,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.705,
+            "N2": 0.1811,
+            "Wake": 0.035,
+            "REM": 0.0223,
+            "N3": 0.002
+        },
+        "margin_error": 0.6827
+    },
+    {
+        "id": 4790,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.473,
+            "REM": 0.2869,
+            "Wake": 0.188,
+            "N2": 0.0365,
+            "N3": 0.0028
+        },
+        "margin_error": 0.1861
+    },
+    {
+        "id": 4804,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5933,
+            "N1": 0.3747,
+            "REM": 0.0123,
+            "N2": 0.0098,
+            "N3": 0.0013
+        },
+        "margin_error": 0.2186
+    },
+    {
+        "id": 4806,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5633,
+            "N1": 0.3979,
+            "N2": 0.0141,
+            "REM": 0.0117,
+            "N3": 0.0015
+        },
+        "margin_error": 0.1654
+    },
+    {
+        "id": 4901,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7244,
+            "N2": 0.1424,
+            "N1": 0.1367,
+            "REM": 0.0065,
+            "N3": 0.0028
+        },
+        "margin_error": 0.5877
+    },
+    {
+        "id": 4903,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6217,
+            "N1": 0.1966,
+            "Wake": 0.1509,
+            "REM": 0.0101,
+            "N3": 0.004
+        },
+        "margin_error": 0.4251
+    },
+    {
+        "id": 4908,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8042,
+            "N1": 0.1523,
+            "N2": 0.053,
+            "REM": 0.0038,
+            "N3": 0.0014
+        },
+        "margin_error": 0.6519
+    },
+    {
+        "id": 4916,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.5119,
+            "N1": 0.3805,
+            "Wake": 0.0673,
+            "REM": 0.0049,
+            "N3": 0.002
+        },
+        "margin_error": 0.1314
+    },
+    {
+        "id": 4963,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7906,
+            "REM": 0.1495,
+            "N1": 0.0659,
+            "N2": 0.0227,
+            "N3": 0.0019
+        },
+        "margin_error": 0.7247
+    },
+    {
+        "id": 4964,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3952,
+            "REM": 0.3493,
+            "N2": 0.1358,
+            "Wake": 0.1088,
+            "N3": 0.0047
+        },
+        "margin_error": 0.0459
+    },
+    {
+        "id": 4984,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3802,
+            "REM": 0.3435,
+            "N2": 0.1927,
+            "Wake": 0.072,
+            "N3": 0.0039
+        },
+        "margin_error": 0.0367
+    },
+    {
+        "id": 5105,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4006,
+            "N1": 0.3214,
+            "N2": 0.2421,
+            "REM": 0.0178,
+            "N3": 0.0058
+        },
+        "margin_error": 0.0792
+    },
+    {
+        "id": 5108,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7667,
+            "N1": 0.1348,
+            "N2": 0.0967,
+            "REM": 0.0148,
+            "N3": 0.0022
+        },
+        "margin_error": 0.6319
+    },
+    {
+        "id": 5203,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4791,
+            "REM": 0.2948,
+            "Wake": 0.1885,
+            "N2": 0.0221,
+            "N3": 0.0027
+        },
+        "margin_error": 0.1843
+    },
+    {
+        "id": 5204,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8882,
+            "N2": 0.0561,
+            "Wake": 0.0543,
+            "N1": 0.0515,
+            "N3": 0.0023
+        },
+        "margin_error": 0.8367
+    },
+    {
+        "id": 5236,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4224,
+            "N1": 0.3205,
+            "Wake": 0.243,
+            "N2": 0.0208,
+            "N3": 0.0027
+        },
+        "margin_error": 0.1019
+    },
+    {
+        "id": 5259,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.4458,
+            "N1": 0.2876,
+            "Wake": 0.1576,
+            "N2": 0.1147,
+            "N3": 0.004
+        },
+        "margin_error": 0.1582
+    },
+    {
+        "id": 5260,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7823,
+            "REM": 0.1382,
+            "N2": 0.0792,
+            "N1": 0.0305,
+            "N3": 0.0014
+        },
+        "margin_error": 0.7518
+    },
+    {
+        "id": 5272,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4112,
+            "N2": 0.3622,
+            "Wake": 0.1402,
+            "REM": 0.054,
+            "N3": 0.0047
+        },
+        "margin_error": 0.049
+    },
+    {
+        "id": 5357,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4043,
+            "N2": 0.3071,
+            "N1": 0.2586,
+            "REM": 0.0151,
+            "N3": 0.0071
+        },
+        "margin_error": 0.1457
+    },
+    {
+        "id": 5358,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7854,
+            "N1": 0.1126,
+            "Wake": 0.0722,
+            "REM": 0.0109,
+            "N3": 0.0042
+        },
+        "margin_error": 0.6728
+    },
+    {
+        "id": 5455,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.5731,
+            "N1": 0.3574,
+            "N2": 0.0533,
+            "Wake": 0.0212,
+            "N3": 0.0031
+        },
+        "margin_error": 0.2157
+    },
+    {
+        "id": 5479,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.7109,
+            "N1": 0.2792,
+            "N2": 0.0083,
+            "REM": 0.0028,
+            "N3": 0.0007
+        },
+        "margin_error": 0.4317
+    },
+    {
+        "id": 5480,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.5054,
+            "N1": 0.3849,
+            "N2": 0.0836,
+            "REM": 0.0108,
+            "N3": 0.0022
+        },
+        "margin_error": 0.1205
+    },
+    {
+        "id": 5481,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8495,
+            "N2": 0.0479,
+            "Wake": 0.0318,
+            "REM": 0.0041,
+            "N3": 0.0008
+        },
+        "margin_error": 0.8016
+    },
+    {
+        "id": 5482,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6503,
+            "N2": 0.2829,
+            "Wake": 0.009,
+            "REM": 0.0028,
+            "N3": 0.0008
+        },
+        "margin_error": 0.3674
+    },
+    {
+        "id": 5483,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7404,
+            "N2": 0.1948,
+            "Wake": 0.0029,
+            "REM": 0.001,
+            "N3": 0.0004
+        },
+        "margin_error": 0.5456
+    },
+    {
+        "id": 5484,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6791,
+            "Wake": 0.2111,
+            "N1": 0.0974,
+            "REM": 0.0023,
+            "N3": 0.001
+        },
+        "margin_error": 0.5817
+    },
+    {
+        "id": 5503,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4651,
+            "N2": 0.3986,
+            "Wake": 0.093,
+            "REM": 0.0037,
+            "N3": 0.0016
+        },
+        "margin_error": 0.0665
+    },
+    {
+        "id": 5535,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8899,
+            "N1": 0.0614,
+            "REM": 0.026,
+            "Wake": 0.0068,
+            "N3": 0.0019
+        },
+        "margin_error": 0.8285
+    },
+    {
+        "id": 5559,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6538,
+            "N1": 0.2975,
+            "Wake": 0.0129,
+            "REM": 0.0039,
+            "N3": 0.001
+        },
+        "margin_error": 0.3563
+    },
+    {
+        "id": 5560,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9558,
+            "N1": 0.0214,
+            "Wake": 0.0072,
+            "REM": 0.0015,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9344
+    },
+    {
+        "id": 5576,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7816,
+            "N1": 0.1893,
+            "REM": 0.0021,
+            "Wake": 0.0017,
+            "N3": 0.0006
+        },
+        "margin_error": 0.5923
+    },
+    {
+        "id": 5674,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.3584,
+            "N2": 0.331,
+            "Wake": 0.1728,
+            "N3": 0.0943,
+            "REM": 0.0487
+        },
+        "margin_error": 0.0274
+    },
+    {
+        "id": 5748,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8229,
+            "N1": 0.1866,
+            "N2": 0.0021,
+            "REM": 0.0009,
+            "N3": 0.0003
+        },
+        "margin_error": 0.6363
+    },
+    {
+        "id": 5751,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7237,
+            "N1": 0.2413,
+            "Wake": 0.0038,
+            "REM": 0.0026,
+            "N3": 0.0007
+        },
+        "margin_error": 0.4824
+    },
+    {
+        "id": 5753,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.4563,
+            "N2": 0.3375,
+            "N1": 0.1901,
+            "REM": 0.0112,
+            "N3": 0.0021
+        },
+        "margin_error": 0.2662
+    },
+    {
+        "id": 5877,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.979,
+            "N1": 0.0052,
+            "Wake": 0.0016,
+            "REM": 0.0007,
+            "N3": 0.0006
+        },
+        "margin_error": 0.9738
+    },
+    {
+        "id": 5880,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7153,
+            "N1": 0.2475,
+            "REM": 0.0043,
+            "Wake": 0.0036,
+            "N3": 0.0014
+        },
+        "margin_error": 0.4678
+    },
+    {
+        "id": 5881,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6723,
+            "N1": 0.2877,
+            "Wake": 0.0049,
+            "REM": 0.0033,
+            "N3": 0.001
+        },
+        "margin_error": 0.3846
+    },
+    {
+        "id": 5898,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.9109,
+            "Wake": 0.0096,
+            "N2": 0.0056,
+            "REM": 0.0023,
+            "N3": 0.0005
+        },
+        "margin_error": 0.9013
+    },
+    {
+        "id": 5900,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7482,
+            "N1": 0.1389,
+            "Wake": 0.0594,
+            "REM": 0.0354,
+            "N3": 0.0024
+        },
+        "margin_error": 0.6093
+    },
+    {
+        "id": 5902,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9185,
+            "N1": 0.0609,
+            "REM": 0.003,
+            "Wake": 0.0006,
+            "N3": 0.0004
+        },
+        "margin_error": 0.8576
+    },
+    {
+        "id": 5903,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9641,
+            "N1": 0.0208,
+            "REM": 0.0005,
+            "Wake": 0.0002,
+            "N3": 0.0002
+        },
+        "margin_error": 0.9433
+    },
+    {
+        "id": 5918,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.862,
+            "REM": 0.0551,
+            "N2": 0.016,
+            "Wake": 0.0019,
+            "N3": 0.0007
+        },
+        "margin_error": 0.8069
+    },
+    {
+        "id": 5920,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7534,
+            "REM": 0.1644,
+            "Wake": 0.0193,
+            "N2": 0.0136,
+            "N3": 0.0009
+        },
+        "margin_error": 0.589
+    },
+    {
+        "id": 5941,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6574,
+            "REM": 0.2488,
+            "N2": 0.0504,
+            "Wake": 0.005,
+            "N3": 0.0021
+        },
+        "margin_error": 0.4086
+    },
+    {
+        "id": 5972,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8787,
+            "Wake": 0.027,
+            "N2": 0.0146,
+            "REM": 0.0114,
+            "N3": 0.0007
+        },
+        "margin_error": 0.8517
+    },
+    {
+        "id": 5973,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7748,
+            "Wake": 0.1029,
+            "REM": 0.0384,
+            "N2": 0.0275,
+            "N3": 0.0012
+        },
+        "margin_error": 0.6719
+    },
+    {
+        "id": 5993,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8904,
+            "N1": 0.0862,
+            "REM": 0.0027,
+            "Wake": 0.0018,
+            "N3": 0.001
+        },
+        "margin_error": 0.8042
+    },
+    {
+        "id": 5996,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9589,
+            "N1": 0.0258,
+            "REM": 0.0005,
+            "N3": 0.0002,
+            "Wake": 0.0001
+        },
+        "margin_error": 0.9331
+    },
+    {
+        "id": 6024,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8719,
+            "Wake": 0.0527,
+            "N2": 0.006,
+            "REM": 0.0021,
+            "N3": 0.0008
+        },
+        "margin_error": 0.8192
+    },
+    {
+        "id": 6052,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9595,
+            "N1": 0.0126,
+            "REM": 0.0102,
+            "N3": 0.0054,
+            "Wake": 0.0011
+        },
+        "margin_error": 0.9469
+    },
+    {
+        "id": 6131,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5892,
+            "REM": 0.337,
+            "N2": 0.039,
+            "Wake": 0.0082,
+            "N3": 0.0012
+        },
+        "margin_error": 0.2522
+    },
+    {
+        "id": 6135,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.484,
+            "REM": 0.4367,
+            "N2": 0.0564,
+            "Wake": 0.0095,
+            "N3": 0.0026
+        },
+        "margin_error": 0.0473
+    },
+    {
+        "id": 6144,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7024,
+            "REM": 0.2287,
+            "N2": 0.023,
+            "Wake": 0.0039,
+            "N3": 0.0011
+        },
+        "margin_error": 0.4737
+    },
+    {
+        "id": 6146,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7357,
+            "REM": 0.1261,
+            "N2": 0.073,
+            "Wake": 0.0137,
+            "N3": 0.0012
+        },
+        "margin_error": 0.6096
+    },
+    {
+        "id": 6147,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4768,
+            "N2": 0.3229,
+            "REM": 0.1533,
+            "Wake": 0.0131,
+            "N3": 0.0029
+        },
+        "margin_error": 0.3235
+    },
+    {
+        "id": 6150,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7435,
+            "N2": 0.1151,
+            "REM": 0.0791,
+            "Wake": 0.0057,
+            "N3": 0.0026
+        },
+        "margin_error": 0.6644
+    },
+    {
+        "id": 6233,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8677,
+            "N1": 0.1027,
+            "Wake": 0.0053,
+            "REM": 0.0047,
+            "N3": 0.0009
+        },
+        "margin_error": 0.765
+    },
+    {
+        "id": 6234,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7935,
+            "N1": 0.1766,
+            "REM": 0.0046,
+            "Wake": 0.0011,
+            "N3": 0.0005
+        },
+        "margin_error": 0.6169
+    },
+    {
+        "id": 6235,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6678,
+            "N1": 0.282,
+            "Wake": 0.0123,
+            "REM": 0.0072,
+            "N3": 0.0011
+        },
+        "margin_error": 0.3858
+    },
+    {
+        "id": 6236,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9436,
+            "N1": 0.04,
+            "REM": 0.0006,
+            "Wake": 0.0003,
+            "N3": 0.0001
+        },
+        "margin_error": 0.9036
+    },
+    {
+        "id": 6246,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.8269,
+            "N1": 0.149,
+            "REM": 0.001,
+            "Wake": 0.0004,
+            "N3": 0.0002
+        },
+        "margin_error": 0.6779
+    },
+    {
+        "id": 6250,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9761,
+            "REM": 0.0044,
+            "N1": 0.0043,
+            "Wake": 0.0021,
+            "N3": 0.0004
+        },
+        "margin_error": 0.9718
+    },
+    {
+        "id": 6256,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5617,
+            "REM": 0.395,
+            "N2": 0.0214,
+            "Wake": 0.0013,
+            "N3": 0.0008
+        },
+        "margin_error": 0.1667
+    },
+    {
+        "id": 6261,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6209,
+            "REM": 0.3265,
+            "N2": 0.0124,
+            "Wake": 0.0109,
+            "N3": 0.001
+        },
+        "margin_error": 0.2944
+    },
+    {
+        "id": 6262,
+        "type": "False N1 (FP)",
+        "real_stage": "REM",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5993,
+            "REM": 0.3426,
+            "N2": 0.0236,
+            "Wake": 0.0073,
+            "N3": 0.0016
+        },
+        "margin_error": 0.2567
+    },
+    {
+        "id": 6265,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8823,
+            "N1": 0.1319,
+            "REM": 0.0037,
+            "N2": 0.0011,
+            "N3": 0.0002
+        },
+        "margin_error": 0.7504
+    },
+    {
+        "id": 6278,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.8775,
+            "N1": 0.1314,
+            "N2": 0.0049,
+            "REM": 0.0049,
+            "N3": 0.0006
+        },
+        "margin_error": 0.7461
+    },
+    {
+        "id": 6289,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0139,
+            "N1": 0.0163,
+            "N2": 0.0015,
+            "REM": 0.0007,
+            "N3": 0.0002
+        },
+        "margin_error": 0.9976
+    },
+    {
+        "id": 6356,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 1.0231,
+            "N1": 0.0069,
+            "REM": 0.0024,
+            "N2": 0.0011,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0162
+    },
+    {
+        "id": 6358,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.631,
+            "N1": 0.3469,
+            "REM": 0.0088,
+            "N2": 0.007,
+            "N3": 0.0008
+        },
+        "margin_error": 0.2841
+    },
+    {
+        "id": 6361,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9816,
+            "N1": 0.0392,
+            "N2": 0.0045,
+            "REM": 0.0042,
+            "N3": 0.0003
+        },
+        "margin_error": 0.9424
+    },
+    {
+        "id": 6387,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.916,
+            "N1": 0.0903,
+            "N2": 0.0133,
+            "REM": 0.0034,
+            "N3": 0.0007
+        },
+        "margin_error": 0.8257
+    },
+    {
+        "id": 6393,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6676,
+            "N2": 0.2724,
+            "REM": 0.0027,
+            "Wake": 0.0011,
+            "N3": 0.0006
+        },
+        "margin_error": 0.3952
+    },
+    {
+        "id": 6435,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "Wake",
+        "probabilities": {
+            "Wake": 0.9947,
+            "N1": 0.0305,
+            "N2": 0.0044,
+            "REM": 0.001,
+            "N3": 0.0002
+        },
+        "margin_error": 0.9642
+    },
+    {
+        "id": 6504,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6515,
+            "N2": 0.2234,
+            "Wake": 0.051,
+            "REM": 0.0175,
+            "N3": 0.0074
+        },
+        "margin_error": 0.4281
+    },
+    {
+        "id": 6505,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.5278,
+            "Wake": 0.2323,
+            "N2": 0.1725,
+            "REM": 0.0316,
+            "N3": 0.0026
+        },
+        "margin_error": 0.3553
+    },
+    {
+        "id": 6506,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7179,
+            "Wake": 0.1748,
+            "REM": 0.0293,
+            "N2": 0.0277,
+            "N3": 0.0015
+        },
+        "margin_error": 0.6902
+    },
+    {
+        "id": 6507,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8081,
+            "Wake": 0.0938,
+            "REM": 0.0282,
+            "N2": 0.0105,
+            "N3": 0.0007
+        },
+        "margin_error": 0.7976
+    },
+    {
+        "id": 6508,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8891,
+            "REM": 0.017,
+            "Wake": 0.013,
+            "N2": 0.0119,
+            "N3": 0.0007
+        },
+        "margin_error": 0.8772
+    },
+    {
+        "id": 6509,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8381,
+            "REM": 0.0518,
+            "N2": 0.0327,
+            "Wake": 0.014,
+            "N3": 0.0011
+        },
+        "margin_error": 0.8054
+    },
+    {
+        "id": 6510,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8084,
+            "N2": 0.0831,
+            "REM": 0.0406,
+            "Wake": 0.0054,
+            "N3": 0.0008
+        },
+        "margin_error": 0.7253
+    },
+    {
+        "id": 6511,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8302,
+            "REM": 0.0546,
+            "N2": 0.0454,
+            "Wake": 0.0067,
+            "N3": 0.0012
+        },
+        "margin_error": 0.7848
+    },
+    {
+        "id": 6512,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.547,
+            "N2": 0.3779,
+            "REM": 0.0259,
+            "Wake": 0.0021,
+            "N3": 0.0012
+        },
+        "margin_error": 0.1691
+    },
+    {
+        "id": 6577,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7881,
+            "Wake": 0.14,
+            "N2": 0.0091,
+            "REM": 0.0051,
+            "N3": 0.0009
+        },
+        "margin_error": 0.6481
+    },
+    {
+        "id": 6579,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8692,
+            "N2": 0.0319,
+            "Wake": 0.0211,
+            "REM": 0.0096,
+            "N3": 0.0011
+        },
+        "margin_error": 0.8373
+    },
+    {
+        "id": 6580,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8187,
+            "N2": 0.0597,
+            "Wake": 0.0472,
+            "REM": 0.0104,
+            "N3": 0.0015
+        },
+        "margin_error": 0.759
+    },
+    {
+        "id": 6656,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.8269,
+            "REM": 0.0559,
+            "Wake": 0.0416,
+            "N2": 0.0149,
+            "N3": 0.0006
+        },
+        "margin_error": 0.812
+    },
+    {
+        "id": 6657,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.9077,
+            "REM": 0.0122,
+            "N2": 0.008,
+            "Wake": 0.0012,
+            "N3": 0.0003
+        },
+        "margin_error": 0.8997
+    },
+    {
+        "id": 6658,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7529,
+            "N2": 0.1033,
+            "REM": 0.0858,
+            "Wake": 0.0023,
+            "N3": 0.0008
+        },
+        "margin_error": 0.6496
+    },
+    {
+        "id": 6659,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4572,
+            "N2": 0.4017,
+            "REM": 0.1023,
+            "Wake": 0.0031,
+            "N3": 0.0014
+        },
+        "margin_error": 0.0555
+    },
+    {
+        "id": 6660,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.437,
+            "N2": 0.411,
+            "REM": 0.116,
+            "Wake": 0.0024,
+            "N3": 0.0015
+        },
+        "margin_error": 0.026
+    },
+    {
+        "id": 6758,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4321,
+            "N2": 0.3485,
+            "REM": 0.1609,
+            "Wake": 0.0295,
+            "N3": 0.0019
+        },
+        "margin_error": 0.0836
+    },
+    {
+        "id": 6801,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.3612,
+            "REM": 0.3246,
+            "N1": 0.2911,
+            "N3": 0.01,
+            "Wake": 0.0087
+        },
+        "margin_error": 0.0701
+    },
+    {
+        "id": 6802,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7788,
+            "REM": 0.2211,
+            "N1": 0.0026,
+            "N3": 0.0005,
+            "Wake": 0.0003
+        },
+        "margin_error": 0.7762
+    },
+    {
+        "id": 6942,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4812,
+            "N2": 0.4004,
+            "REM": 0.0768,
+            "Wake": 0.0027,
+            "N3": 0.0009
+        },
+        "margin_error": 0.0808
+    },
+    {
+        "id": 7055,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.9164,
+            "N1": 0.0928,
+            "N2": 0.0375,
+            "Wake": 0.0013,
+            "N3": 0.0009
+        },
+        "margin_error": 0.8236
+    },
+    {
+        "id": 7078,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6824,
+            "N1": 0.3242,
+            "N2": 0.0065,
+            "Wake": 0.0028,
+            "N3": 0.0008
+        },
+        "margin_error": 0.3582
+    },
+    {
+        "id": 7079,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.047,
+            "N1": 0.0095,
+            "N2": 0.0061,
+            "Wake": 0.0009,
+            "N3": 0.0003
+        },
+        "margin_error": 1.0375
+    },
+    {
+        "id": 7088,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6888,
+            "N2": 0.2466,
+            "N1": 0.0932,
+            "Wake": 0.0026,
+            "N3": 0.001
+        },
+        "margin_error": 0.5956
+    },
+    {
+        "id": 7089,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8153,
+            "N2": 0.1758,
+            "N1": 0.0486,
+            "Wake": 0.0032,
+            "N3": 0.0018
+        },
+        "margin_error": 0.7667
+    },
+    {
+        "id": 7093,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.6927,
+            "N1": 0.2224,
+            "REM": 0.0584,
+            "Wake": 0.0027,
+            "N3": 0.0014
+        },
+        "margin_error": 0.4703
+    },
+    {
+        "id": 7113,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7466,
+            "REM": 0.1622,
+            "N2": 0.0395,
+            "Wake": 0.0022,
+            "N3": 0.0005
+        },
+        "margin_error": 0.7071
+    },
+    {
+        "id": 7114,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.7468,
+            "N2": 0.1528,
+            "REM": 0.0416,
+            "Wake": 0.0004,
+            "N3": 0.0002
+        },
+        "margin_error": 0.594
+    },
+    {
+        "id": 7137,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.9441,
+            "REM": 0.0348,
+            "N1": 0.0088,
+            "Wake": 0.0009,
+            "N3": 0.0007
+        },
+        "margin_error": 0.9353
+    },
+    {
+        "id": 7191,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0464,
+            "N1": 0.0154,
+            "Wake": 0.0008,
+            "N2": 0.0005,
+            "N3": 0.0001
+        },
+        "margin_error": 1.031
+    },
+    {
+        "id": 7192,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0628,
+            "N1": 0.0021,
+            "N2": 0.0002,
+            "Wake": 0.0001,
+            "N3": 0.0
+        },
+        "margin_error": 1.0607
+    },
+    {
+        "id": 7193,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0633,
+            "N1": 0.0014,
+            "N2": 0.0005,
+            "Wake": 0.0001,
+            "N3": 0.0
+        },
+        "margin_error": 1.0619
+    },
+    {
+        "id": 7222,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0607,
+            "N2": 0.0032,
+            "N1": 0.0009,
+            "Wake": 0.0004,
+            "N3": 0.0001
+        },
+        "margin_error": 1.0598
+    },
+    {
+        "id": 7227,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8025,
+            "N1": 0.2264,
+            "Wake": 0.0017,
+            "N2": 0.0009,
+            "N3": 0.0002
+        },
+        "margin_error": 0.5761
+    },
+    {
+        "id": 7228,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0259,
+            "N1": 0.0336,
+            "N2": 0.0007,
+            "Wake": 0.0002,
+            "N3": 0.0001
+        },
+        "margin_error": 0.9923
+    },
+    {
+        "id": 7229,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0122,
+            "N1": 0.0452,
+            "N2": 0.0008,
+            "Wake": 0.0005,
+            "N3": 0.0001
+        },
+        "margin_error": 0.967
+    },
+    {
+        "id": 7245,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "N2",
+        "probabilities": {
+            "N2": 0.7525,
+            "REM": 0.2185,
+            "N1": 0.0212,
+            "Wake": 0.0085,
+            "N3": 0.0022
+        },
+        "margin_error": 0.7313
+    },
+    {
+        "id": 7315,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6638,
+            "REM": 0.2784,
+            "N2": 0.0212,
+            "Wake": 0.0009,
+            "N3": 0.0005
+        },
+        "margin_error": 0.6426
+    },
+    {
+        "id": 7348,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.5082,
+            "N1": 0.3706,
+            "Wake": 0.0877,
+            "N2": 0.0365,
+            "N3": 0.0022
+        },
+        "margin_error": 0.1376
+    },
+    {
+        "id": 7350,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6788,
+            "N1": 0.2863,
+            "N2": 0.0469,
+            "Wake": 0.0056,
+            "N3": 0.0018
+        },
+        "margin_error": 0.3925
+    },
+    {
+        "id": 7352,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.654,
+            "REM": 0.2819,
+            "N2": 0.0255,
+            "Wake": 0.0036,
+            "N3": 0.001
+        },
+        "margin_error": 0.6285
+    },
+    {
+        "id": 7361,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.7236,
+            "N1": 0.2909,
+            "N2": 0.0047,
+            "Wake": 0.0019,
+            "N3": 0.0009
+        },
+        "margin_error": 0.4327
+    },
+    {
+        "id": 7364,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0489,
+            "N1": 0.0129,
+            "N2": 0.0012,
+            "Wake": 0.0004,
+            "N3": 0.0002
+        },
+        "margin_error": 1.036
+    },
+    {
+        "id": 7367,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0363,
+            "N1": 0.0199,
+            "Wake": 0.0042,
+            "N2": 0.0017,
+            "N3": 0.0002
+        },
+        "margin_error": 1.0164
+    },
+    {
+        "id": 7371,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.722,
+            "N1": 0.1954,
+            "Wake": 0.1075,
+            "N2": 0.0068,
+            "N3": 0.0013
+        },
+        "margin_error": 0.5266
+    },
+    {
+        "id": 7373,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.6642,
+            "N1": 0.3389,
+            "N2": 0.0076,
+            "Wake": 0.0027,
+            "N3": 0.001
+        },
+        "margin_error": 0.3253
+    },
+    {
+        "id": 7374,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0025,
+            "N1": 0.0454,
+            "N2": 0.0057,
+            "Wake": 0.0042,
+            "N3": 0.0006
+        },
+        "margin_error": 0.9571
+    },
+    {
+        "id": 7375,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.9075,
+            "N1": 0.119,
+            "Wake": 0.0143,
+            "N2": 0.0055,
+            "N3": 0.0008
+        },
+        "margin_error": 0.7885
+    },
+    {
+        "id": 7376,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 0.8644,
+            "N1": 0.1453,
+            "N2": 0.0291,
+            "Wake": 0.002,
+            "N3": 0.0011
+        },
+        "margin_error": 0.7191
+    },
+    {
+        "id": 7377,
+        "type": "Missed N1 (FN)",
+        "real_stage": "N1",
+        "predicted_stage": "REM",
+        "probabilities": {
+            "REM": 1.0045,
+            "N2": 0.0323,
+            "N1": 0.0218,
+            "Wake": 0.0008,
+            "N3": 0.0006
+        },
+        "margin_error": 0.9827
+    },
+    {
+        "id": 7381,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6663,
+            "REM": 0.1523,
+            "N2": 0.1326,
+            "Wake": 0.0031,
+            "N3": 0.0014
+        },
+        "margin_error": 0.5337
+    },
+    {
+        "id": 7382,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4689,
+            "N2": 0.2737,
+            "REM": 0.2262,
+            "Wake": 0.0033,
+            "N3": 0.0022
+        },
+        "margin_error": 0.1952
+    },
+    {
+        "id": 7387,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6169,
+            "REM": 0.1813,
+            "N2": 0.1574,
+            "Wake": 0.0044,
+            "N3": 0.0012
+        },
+        "margin_error": 0.4595
+    },
+    {
+        "id": 7388,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.687,
+            "REM": 0.0919,
+            "N2": 0.0904,
+            "Wake": 0.0825,
+            "N3": 0.002
+        },
+        "margin_error": 0.5966
+    },
+    {
+        "id": 7389,
+        "type": "False N1 (FP)",
+        "real_stage": "N2",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.6959,
+            "N2": 0.1702,
+            "REM": 0.0638,
+            "Wake": 0.0167,
+            "N3": 0.0012
+        },
+        "margin_error": 0.5257
+    },
+    {
+        "id": 7404,
+        "type": "False N1 (FP)",
+        "real_stage": "Wake",
+        "predicted_stage": "N1",
+        "probabilities": {
+            "N1": 0.4215,
+            "N2": 0.3092,
+            "Wake": 0.2241,
+            "REM": 0.0147,
+            "N3": 0.0023
+        },
+        "margin_error": 0.1974
+    }
+]
