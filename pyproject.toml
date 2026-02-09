@@ -1,0 +1,21 @@
+[project]
+name = "Kaggle_ML"
+version = "0.1.0"
+description = "Analyse de données et ML avec uv"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+    "imbalanced-learn", 
+    "scikit-learn",   
+    "xgboost",
+    "joblib",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
